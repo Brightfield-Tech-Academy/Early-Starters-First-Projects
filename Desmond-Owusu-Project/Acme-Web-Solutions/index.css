@@ -1,0 +1,121 @@
+*{margin: 0px;}
+.image{
+
+    background-image: url("backgImage.jpg");
+    background-attachment: fixed;
+    width: 100%;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(87, 85, 85);
+    background-blend-mode: multiply;
+    opacity: 0.9;
+
+}
+h1{
+   text-align: center;
+   color: white;
+   padding-top: 3cm;
+   font-size: 35px;
+}
+.shortText{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1cm;
+}
+.readMore{
+    position: relative;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+    background-color: rgb(39, 36, 36);
+    top: 1cm;
+    margin-left: 45%;
+    margin-right: auto;
+    border-style:none ;
+    border: 0.5px solid rgb(240, 237, 237);
+}
+.readMore:hover{background-color: #eaeaea; color: black;}
+h2{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 0.8cm;
+}
+.pure-g1{
+    margin-top: 1cm;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.container{
+    background-color: rgb(30, 30, 30);
+    
+}
+.pure-g2{
+    position: relative;
+    padding-top: 0.7cm;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 1cm;
+}
+
+.grids{
+    background-color: white;
+    text-align: center;
+
+}
+
+.images{
+    width: 100%;
+    height: 6cm;
+}
+
+.heading{
+    margin-top: 0.7cm;
+    font-size: 20px;
+    font-weight: bold;
+}
+.content{
+    margin-top: 0.7cm;
+    margin-bottom: 1.5cm;
+    font-size: 18px;
+}
+
+.weHandle{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1cm;
+}
+
+.weHandleText{
+    margin-top: 1cm;
+    font-size: 22px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2cm;
+}
+
+.contactUs, .about{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 2cm;
+    text-align: center;
+    color: white;
+}
+.contactUsContent{
+    font-size: 20px;
+    margin-top: 1.5cm;
+    text-align: center;
+    color: white;
+}
+.gmail, .aboutContent{
+    font-size: 20px;
+    margin-top: 1.5cm;
+    color: white;
+    text-align: center;
+    margin-bottom: 2cm;
+}
